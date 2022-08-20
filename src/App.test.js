@@ -6,3 +6,9 @@ describe('<App />', () => {
         render(<App />)
     });
 });
+
+describe('Fetch Temperature from API', () => {
+    it('should fetch data from API ', async () => {
+        render
+    })
+})
